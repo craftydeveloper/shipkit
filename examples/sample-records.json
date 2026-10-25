@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "check-1",
+      "title": "Regression suite evidence",
+      "release": "v1.2.0",
+      "status": "pending-evidence"
+    },
+    {
+      "id": "check-2",
+      "title": "Rollback plan review",
+      "release": "v1.2.0",
+      "status": "open"
+    }
+  ]
+}
