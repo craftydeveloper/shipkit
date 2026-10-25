@@ -1,0 +1,11 @@
+{
+  "name": "shipkit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A reusable software release checklist that records decisions but does not deploy software.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
